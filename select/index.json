@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "誰にもバレずに",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-22T05:54:17.850463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰にもバレずに",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_誰にもバレずに_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰にもバレずに (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_誰にもバレずに_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰にもバレずに",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_誰にもバレずに_=LOVE.txt"
+    }
+  ]
+}
